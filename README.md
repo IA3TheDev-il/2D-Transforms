@@ -2,24 +2,7 @@
 
 The Quieter You Become, The More You Are Able To Hear
 
-
-## Authors
-
-- [@IA3TheDev-il](https://github.com/IA3TheDev-il)
-
-## Features
-
-- Rotating
-- Translating
-- Scaling
-- Skewing
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at ContactDevilCodes@devil.codes
-
-## Socials
+## Description
 
 👨‍💻 Project : 2D Transforms
 
@@ -39,13 +22,29 @@ If you have any feedback, please reach out to us at ContactDevilCodes@devil.code
 
 ⚡️ Replit : https://2d-transforms--ia3thedevil.repl.co/
 
-⚡️ Threads : https://www.threads.net/@ia3thedev.il/post/CwnHD9pIHAj
+⚡️ Threads : https://www.threads.net/@ia3thedev.il/post/CwnSrzmIcYB
 
-⚡️ Tumblr : https://www.tumblr.com/ia3thedevil
+⚡️ Tumblr : https://www.tumblr.com/ia3thedevil/727110558908874752/project-2d-transforms-used-languages
 
 ⚡️ Twitter : https://twitter.com/IA3TheDev_il/status/1697250892825997519
 
 ⚡️ Github : https://github.com/IA3TheDev-il/2D-Transforms
+
+## Authors
+
+- [@IA3TheDev-il](https://github.com/IA3TheDev-il)
+
+## Features
+
+- Rotating
+- Translating
+- Scaling
+- Skewing
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at ContactDevilCodes@devil.codes
 
 ## Support
 
