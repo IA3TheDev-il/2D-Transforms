@@ -19,6 +19,33 @@ The Quieter You Become, The More You Are Able To Hear
 
 If you have any feedback, please reach out to us at ContactDevilCodes@devil.codes
 
+## Socials
+
+👨‍💻 Project : 2D Transforms
+
+🔗 Used Languages : Html, Css
+
+⚡️ Dev : https://dev.to/ia3thedevil/2d-transforms-29c2
+
+⚡️ Code Pen : https://codepen.io/IA3TheDevil/pen/RwEavVY
+
+⚡️ Code Ply : https://www.codeply.com/p/Fj3esZ7URz
+
+⚡️ Instagram : https://www.instagram.com/p/CwfqkHpI1HL/
+
+⚡️ Medium : https://medium.com/@IA3TheDevil/2d-transforms-adf2d3ef32b6
+
+⚡️ Replit : https://replit.com/@IA3TheDevil/2D-Transforms
+
+⚡️ Replit : https://2d-transforms--ia3thedevil.repl.co/
+
+⚡️ Threads : https://www.threads.net/@ia3thedev.il/post/CwnHD9pIHAj
+
+⚡️ Tumblr : https://www.tumblr.com/ia3thedevil
+
+⚡️ Twitter : https://twitter.com/IA3TheDev_il/status/1696982062698316009
+
+⚡️ Github : https://github.com/IA3TheDev-il/2D-Transforms
 
 ## Support
 
