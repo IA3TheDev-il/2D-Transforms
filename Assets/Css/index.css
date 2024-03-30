@@ -1,0 +1,103 @@
+.container
+{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.origin:hover
+{
+    transform: rotate(45deg);
+}
+
+img
+{
+    width: 400px;
+    transition: all 2s;
+}
+
+#img-1:hover
+{
+    transform: translate(300px, -300px);
+}
+
+#img-2:hover
+{
+    transform: scale(1.5);
+}
+
+#img-3:hover
+{
+    transform: scale(-1.5);
+}
+
+#img-4:hover
+{
+    transform: rotate(30deg);
+}
+
+#img-5:hover
+{
+    transform: rotate(-0.8turn);
+}
+
+#img-6:hover
+{
+    transform: rotate(100grad);
+}
+
+#img-7:hover
+{
+    transform: skew(25deg, 25deg);
+}
+
+#img-8
+{
+    transform-origin: top;
+}
+
+#img-9
+{
+    transform-origin: right;
+}
+
+#img-10
+{
+    transform-origin: bottom;
+}
+
+#img-11
+{
+    transform-origin: left;
+}
+
+#img-12
+{
+    transform-origin: top right;
+}
+
+#img-13
+{
+    transform-origin: bottom right;
+}
+
+#img-14
+{
+    transform-origin: bottom left;
+}
+
+#img-15
+{
+    transform-origin: top left;
+}
+
+#img-16
+{
+    transform-origin: 40% 80%;
+}
+
+#img-17:hover
+{
+    transform: translate(100px, -100px) scale(1.5, -1.5) rotate(30deg);
+}
